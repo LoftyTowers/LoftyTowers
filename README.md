@@ -1,4 +1,4 @@
-# Peter Gunary — .NET Software Consultant
+# Peter Gunary - .NET Software Consultant
 
 I run a software consultancy focused on helping businesses understand, improve and modernise complex .NET systems. I also work directly with clients on freelance and contract development projects.
 
